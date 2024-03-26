@@ -20,7 +20,7 @@ Instruções:
 8. Implemente a funcionalidade de autenticação de usuários, incluindo sign-in e sign-up, utilizando as melhores práticas de segurança.
 9. Além das telas de login e cadastro, implemente também uma tela de perfil de usuário onde ele possa visualizar e editar suas informações pessoais.
 10. Forneça documentação adequada para explicar a estrutura do banco de dados, a implementação da autenticação e qualquer outra parte relevante do código.
-11. O prazo para conclusão do desafio é de 7 dias, contados a partir da notificação do candidato.
+11. O prazo para conclusão do desafio é de 4 dias, contados a partir da notificação do candidato.
 
 Entregáveis:
 
