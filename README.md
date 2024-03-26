@@ -2,15 +2,15 @@
 
 Objetivo:
 
-- Desenvolver as cinco telas de um aplicativo móvel para aluguel de carros, com base no protótipo e design fornecidos, incluindo a integração com um banco de dados para armazenamento de informações e a implementação de autenticação de usuários (sign-in, sign-up).
+- Desenvolver as duas telas de um aplicativo móvel para aluguel de carros, com base no protótipo e design fornecidos e também a integração com um banco de dados para armazenamento de informações e a implementação de autenticação de usuários (sign-in).
 
 Recursos:
 
-- Protótipo e design da comunidade do Figma: [Link para o protótipo](https://www.figma.com/community/file/1116654425922336807/preview-only-rental-car-mobile-app-design)
+- Protótipo e design da comunidade do Figma: [Link para o protótipo](https://www.figma.com/community/file/941369700854935129/car-rental-app-ui)
 
 Instruções:
 
-1. Utilize o design fornecido no protótipo do Figma para criar as cinco telas do aplicativo.
+1. Utilize o design fornecido no protótipo do Figma para criar as duas telas do aplicativo.
 2. O aplicativo deve seguir as melhores práticas de design e usabilidade para garantir uma experiência fluida para o usuário.
 3. Certifique-se de que a interface seja responsiva e compatível com dispositivos móveis de diferentes tamanhos de tela.
 4. Utilize React Native como framework para o desenvolvimento do aplicativo.
