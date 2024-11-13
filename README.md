@@ -26,6 +26,7 @@ Instruções:
 7. Implemente um backend para gerenciar as regras e dados de usuários e médicos. A escolha do banco de dados (relacional ou NoSQL) e a estruturação dos dados ficam a critério do desenvolvedor. (Recomendamos o uso do NestJS ou FastAPI para o backend, mas você pode escolher a tecnologia que preferir.)
 8. Implemente a funcionalidade de autenticação de usuários, incluindo sign-in e sign-up, utilizando as melhores práticas de segurança.
 9. Forneça documentação adequada para explicar a estrutura do banco de dados, a implementação da autenticação e qualquer outra parte relevante do código.
+10. O prazo para conclusão do desafio é de 5 dias, contados a partir da notificação do candidato.
 
 Entregáveis:
 
